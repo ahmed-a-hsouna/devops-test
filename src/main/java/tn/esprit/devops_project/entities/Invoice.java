@@ -40,5 +40,7 @@ public class Invoice implements Serializable {
     @JsonIgnore
     Supplier supplier;
 
+	float amountInvoice1;
+
 	
 }
