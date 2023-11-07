@@ -140,7 +140,7 @@
     <distributionManagement>
         <repository>
             <id>deploymentRepo</id>
-            <url>http://172.24.135.221:8081/repository/maven-releases</url>
+            <url>http://172.24.135.221:8081/repository/maven-releases/</url>
         </repository>
     </distributionManagement>
     <build>
